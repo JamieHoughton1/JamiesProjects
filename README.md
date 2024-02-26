@@ -6,7 +6,8 @@ Welcome to my GitHub repository! Here, I document various Python data visualizat
 
 1. [Introduction](#introduction)
 2. [Projects](#projects)
-   - [Project 1: Financial Analysis of the S&P 500(#project-1)
+   - [Project 1: Financial Analysis of the S&P 500
+   - [Project 2: Climate Data for Europe and Central Asia for the last 30 years
 3. [Getting Started](#getting-started)
 
 ## Introduction
@@ -17,7 +18,9 @@ In this repository, I explore the world of data visualization using Python. Each
 
 ### Project 1: Financial Analysis of the S&P 500.
 
+### Project 2: Climate Data for Europe and Central Asia for the last 30 years
 
+I am currently working on exploring and visualizing data surrounding the Greenhouse Gas Emissions from European and Central Asian Countries between 1990 and 2020.
 
 Feel free to explore each project folder for more details.
 
